@@ -19,5 +19,8 @@
       77
     ]
   },
-  "test_model": "KeyError('F1')\nTraceback (most recent call last):\n  File \"C:\\Users\\razdi\\AppData\\Local\\Temp\\ipykernel_17228\\1579568773.py\", line 59, in <module>\n    cur_res = test()\n  File \"C:\\Users\\razdi\\AppData\\Local\\Temp\\ipykernel_17228\\1579568773.py\", line 44, in test_model\n    'f1': results_eval['F1'],\n          ~~~~~~~~~~~~^^^^^^\nKeyError: 'F1'\n"
+  "test_model": {
+    "f1": 0.9823217967408528,
+    "f1_wo_o": 0.9440944728706409
+  }
 }
